@@ -1,1 +1,2 @@
 Modified this line from stage in file1.txt
+Modified 2nd line
