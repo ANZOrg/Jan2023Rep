@@ -1,1 +1,1 @@
-Modified this line from stage in file1.txt
+merge conflict demo master branch local
