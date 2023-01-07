@@ -1,1 +1,2 @@
-Modified this line from stage in file1.txt
+Edited by Dev1
+Edited by Dev2
