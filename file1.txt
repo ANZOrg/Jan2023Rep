@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 merge conflict demo master branch local
+=======
+Modified this line from stage in file1.txt
+Modified 2nd line
+>>>>>>> fad2d1167d355b6c17e170a0c56296d9699d749e
