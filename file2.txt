@@ -1,1 +1,1 @@
-updated f2 from stage
+Git conflict demo by Devloper1
